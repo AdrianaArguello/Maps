@@ -1,6 +1,6 @@
 # Maps
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.5.
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.5. https://map-app-ve.netlify.app/#/fullscreen
 
 ## Development server
 
